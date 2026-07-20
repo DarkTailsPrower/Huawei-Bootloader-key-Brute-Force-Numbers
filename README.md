@@ -1,5 +1,5 @@
-# Huawei-Bootloader-Brute-Force-Numbers
-it brute-forces the bootloader key if yours supports it, or it can be done through numbers
+# Huawei-Bootloader key brute force
+going through the digits by adding one to the end of a 16-digit number, incrementing the number from the end.if your smartphone has a lock, for example with numbers. Of course, you can't know exactly whether your key is numbers or letters. This tool brute-forces by generating numbers, increasing by one starting from 1000000000000000.
 
 # How to use open unlocker.exe and connect smartphone on fastboot mode is start on bruteforcing.
 You can also download https://github.com/skeeto/w64devkit/releases/tag/v2.8.0
