@@ -1,4 +1,3 @@
-<img width="1080" height="600" alt="unlocker_iJVJhvtNUG" src="https://github.com/user-attachments/assets/e18487e3-a35d-42b7-9895-a8b84b1b29d9" />
 # Huawei-Bootloader key brute force
 going through the digits by adding one to the end of a 16-digit number, incrementing the number from the end.if your smartphone has a lock, for example with numbers. Of course, you can't know exactly whether your key is numbers or letters. This tool brute-forces by generating numbers, increasing by one starting from 1000000000000000.
 
@@ -28,3 +27,5 @@ Right now, the brute-forcing speed is limited solely by the physical speed of yo
 2. unlocker.exe 1000000000000046
 
 2. Защита телефона от перегреваВо время такого интенсивного перебора процессор Snapdragon 430 постоянно находится под микро-нагрузкой, так как он вынужден генерировать хэши в TrustZone несколько раз в секунду.Обязательно извлеките телефон из плотных чехлов и положите его на прохладную поверхность (не на мягкую ткань или диван).Экран телефона в режиме Fastboot не отключится сам — это нормально, но следите, чтобы аппарат не перегревался выше разумных пределов.3. Наберитесь терпенияСейчас скорость перебора упирается исключительно в физическую скорость ответа USB-порта вашего ПК и самого контроллера смартфона. Код отрабатывает каждую попытку за доли секунды. Теперь это исключительно игра в математическую вероятность: в какой-то момент счётчик наткнётся на ту самую цифровую комбинацию, которая заставит процессор Honor 6A переключить внутреннее состояние флага в единицу (1).
+
+3. <img width="1080" height="600" alt="unlocker_iJVJhvtNUG" src="https://github.com/user-attachments/assets/e18487e3-a35d-42b7-9895-a8b84b1b29d9" />
