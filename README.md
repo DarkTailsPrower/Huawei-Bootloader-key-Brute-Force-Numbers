@@ -3,7 +3,9 @@ it brute-forces the bootloader key if yours supports it, or it can be done throu
 
 # How to use open unlocker.exe and connect smartphone on fastboot mode is start on bruteforcing.
 You can also download https://github.com/skeeto/w64devkit/releases/tag/v2.8.0
-and compile unlocker.c file
+and compile unlocker.c file 
+
+gcc unlocker.c -o unlocker.exe
 
 How to save your progress if you need to turn off your PC
 
