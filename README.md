@@ -42,6 +42,7 @@ Strart From 0000000000000000
 ## Обновленный исходный код (unlocker_zeros.c)
 Замените текст в вашем файле C:\honor6a_brute\unlocker.c на эту версию:
 
+```
 #include <stdio.h>#include <stdlib.h>
 #define LEN 50
 // Стартовый числовой счетчик (0)unsigned long long current_counter = 0ULL;
@@ -94,7 +95,7 @@ int main(int argc, char **argv) {
     system("pause");
     return 0;
 }
-
+```
 ------------------------------
 ## Шаг 1. Перекомпиляция кода
 
